@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91382483938",
+    "project_id": "fizanseker",
+    "storage_bucket": "fizanseker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91382483938:android:2e9ea76383d8259a4307bb",
+        "android_client_info": {
+          "package_name": "com.example.fizansekerleme_k"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91382483938-705p4nm703bmp46g73jpkoavrat6bmeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEK4nfHlMbn-e4WmbUygq_Kgi7PQ8Ivc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91382483938-705p4nm703bmp46g73jpkoavrat6bmeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
