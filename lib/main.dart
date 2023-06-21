@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Color(0xff21254A),
       ),
       home: Scaffold(
-        body: AdminPage(),
+        body: LoginPage(),
       ),
     );
   }
